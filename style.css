@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');
+
+*{margin:0;padding:0:}
+body{font-family:'Montserrat', sans-serif;font-size:16px;line-height:25px;}
+img{width: 100%;max-width: 1oo%}
+.main_container{width:1170px;margin:0 auto;overflow:hidden;}
+header#main_header{}
+.logo{float:left;width:300px;padding:8px;}
+
+.adv{float:right;width:420px;padding:8px;}
+.adv img {
+hight:70px;
+}
+nav{background:#282d4a;border-bottom:3px;}
+.logo_adv{overflow:hidden;}
+.main_menu{background:orange}
+.main_menu ul{list-style:none;}
+.main_menu ul li{float:left}
+.main_menu ul li a{display:block;padding:8px;color:white;text-decoration:none;font-weight:500;}
+.main_menu ul a:hover{background:#4e578c;}
+
+.copyright{background:#282d4a;color:white;text-align:center;font-size:14px;padding:15px;}
+#footer{background:#4e578c;overflow:hidden;}
+.footer_blocks{padding:20px 0px;overflow:hidden;}
+.fblock{overflow:hidden;width:360px;float:left; margin:0px 15px;}
+#footer .footer_blocks .fblock h2{font-size:15px; color:white; border-bottom:2px solid #767da5;}
+#footer .footer_blocks .fblock .links .footerul{list-style:none;margin-top:10px;}
+#footer .footer_blocks .fblock .links .footerul li{}
+#footer .footer_blocks .fblock .links .footerul li a{font-size:12px;color:white;text-decoration:none;}
+#footer .footer_blocks .fblock .links .footerul li a:hover{text-decoration:underline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+border-bottom:3px solid orange;
