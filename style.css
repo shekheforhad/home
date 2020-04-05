@@ -2,8 +2,8 @@
 
 *{margin:0;padding:0:}
 body{font-family:'Montserrat', sans-serif;font-size:16px;line-height:25px;}
-img{width: 1500px;max-width: 1oo%}
-.main_container{width:100%;margin:0 auto;overflow:hidden;}
+img{width: 100px;max-width: 1oo%}
+.main_container{width:1500px;margin:0 auto;overflow:hidden;}
 header#main_header{}
 .logo{float:left;width:300px;padding:8px;}
 
@@ -22,7 +22,7 @@ nav{background:#282d4a;border-bottom:3px;}
 .copyright{background:#282d4a;color:white;text-align:center;font-size:14px;padding:15px;}
 #footer{background:#4e578c;overflow:hidden;}
 .footer_blocks{padding:20px 0px;overflow:hidden;}
-.fblock{overflow:hidden;width:350px;float:left; margin:0px 15px;}
+.fblock{overflow:hidden;width:360px;float:left; margin:0px 15px;}
 #footer .footer_blocks .fblock h2{font-size:15px; color:white; border-bottom:2px solid #767da5;}
 #footer .footer_blocks .fblock .links .footerul{list-style:none;margin-top:10px;}
 #footer .footer_blocks .fblock .links .footerul li{}
