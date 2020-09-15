@@ -9,6 +9,7 @@ header#main_header{}
 
 .adv{float:right;width:600px;padding:10px;}
 .adv img {
+  border-radius: 6px;
 height:400;}
 nav{background:#282d4a;border-bottom:3px;}
 .logo_adv{overflow:hidden;}
