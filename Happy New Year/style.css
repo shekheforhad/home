@@ -1,0 +1,18 @@
+#canvas {
+  width: 100%;
+ }
+div#div4{
+    color:grey;
+    font-size:30px;
+    font-weight:30px;
+}
+div#div4{
+    animation-name: colorchange;   
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+   animation-delay:2s;
+}
+@keyframes colorchange {
+    0% { font-size:5px; }
+    100% { font-size:30px; }
+}
